@@ -34,11 +34,11 @@ Businesses often struggle to collect, analyze, and act on product analytics data
 - Market Research
 - Competitor Analysis
 
-## Documentation 
+## Project Documentation 
 **Notion Documentation**
 https://early-baker-d15.notion.site/PulseAI-AI-Product-Analytics-Platform-3a4633e6991980fbb8d0c0c4877ddcc1?source=copy_link
 
-## Jira Project 
+**Jira Project**
 ** Backlog
 <img width="1505" height="902" alt="Backlog screen" src="https://github.com/user-attachments/assets/de540d19-e011-43d9-a912-8fc6800788b6" />
 ** Board
