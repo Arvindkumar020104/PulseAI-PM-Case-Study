@@ -34,8 +34,9 @@ Businesses often struggle to collect, analyze, and act on product analytics data
 - Market Research
 - Competitor Analysis
 
-## 📷 Screenshots
-(Add Jira, Notion and other screenshots here after uploading them.)
+## Documentation 
+**Notion Documentation**
+https://app.notion.com/p/PulseAI-AI-Product-Analytics-Platform-3a4633e6991980fbb8d0c0c4877ddcc1?source=copy_link
 
 ## 📫 Contact
 **Arvindkumar Pallar**
