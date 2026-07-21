@@ -179,7 +179,6 @@ The project was managed using Jira Scrum with Agile methodology.
 - Jira
 - Notion
 - GitHub
-- Figma (UI Prototype)
 - ChatGPT
 - Markdown
 
