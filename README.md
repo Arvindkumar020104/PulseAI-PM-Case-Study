@@ -261,7 +261,7 @@ Interested in:
 - Growth Products
 
 LinkedIn:
-[> Paste your LinkedIn profile](https://www.linkedin.com/in/arvindkumar-pallar-6802a3234/)
+(https://www.linkedin.com/in/arvindkumar-pallar-6802a3234/)
 
 GitHub:
 > https://github.com/Arvindkumar020104
