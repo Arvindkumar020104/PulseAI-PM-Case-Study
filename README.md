@@ -123,19 +123,19 @@ The project was managed using Jira Scrum with Agile methodology.
 ## Jira Screenshots
 
 ### Sprint Backlog
-![Sprint Backlog](images/jira-backlog.png)
+<img width="1505" height="902" alt="Backlog screen" src="https://github.com/user-attachments/assets/56fc4f3d-e65e-4ec6-b21e-838f37975f75" />
 
 ### Scrum Board
-![Scrum Board](images/jira-board.png)
+<img width="1517" height="832" alt="Board screen" src="https://github.com/user-attachments/assets/08dbb757-60b5-43ff-af9b-0eefe7912bd0" />
 
 ### Timeline
-![Timeline](images/jira-timeline.png)
+<img width="1512" height="832" alt="Timeline screen" src="https://github.com/user-attachments/assets/4a8e3943-6681-4fdd-a15e-520d0e708491" />
 
 ### Calendar
-![Calendar](images/jira-calendar.png)
+<img width="1517" height="855" alt="Calender screen" src="https://github.com/user-attachments/assets/ae14954f-0781-4f88-9aed-8d5aba6e9981" />
 
 ### Sprint Summary
-![Sprint Summary](images/jira-summary.png)
+<img width="1502" height="852" alt="Summary Screen" src="https://github.com/user-attachments/assets/0053a44e-2727-4f6e-b51a-a00ea527a0c6" />
 
 
 
