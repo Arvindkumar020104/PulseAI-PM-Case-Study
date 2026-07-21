@@ -38,6 +38,14 @@ Businesses often struggle to collect, analyze, and act on product analytics data
 **Notion Documentation**
 https://app.notion.com/p/PulseAI-AI-Product-Analytics-Platform-3a4633e6991980fbb8d0c0c4877ddcc1?source=copy_link
 
+## Jira Project 
+** Backlog
+<img width="1505" height="902" alt="Backlog screen" src="https://github.com/user-attachments/assets/de540d19-e011-43d9-a912-8fc6800788b6" />
+** Board
+<img width="1517" height="832" alt="Board screen" src="https://github.com/user-attachments/assets/95635e91-14d9-4f7b-961a-9a1c94e8ec4c" />
+** Summary 
+<img width="1502" height="852" alt="Summary Screen" src="https://github.com/user-attachments/assets/72ba336b-d7dd-4733-8f7f-cd217975dd94" />
+
 ## 📫 Contact
 **Arvindkumar Pallar**
 MBA (Marketing) | Aspiring Product Manager
