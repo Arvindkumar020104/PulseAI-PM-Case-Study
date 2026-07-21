@@ -36,7 +36,7 @@ Businesses often struggle to collect, analyze, and act on product analytics data
 
 ## Documentation 
 **Notion Documentation**
-https://app.notion.com/p/PulseAI-AI-Product-Analytics-Platform-3a4633e6991980fbb8d0c0c4877ddcc1?source=copy_link
+https://early-baker-d15.notion.site/PulseAI-AI-Product-Analytics-Platform-3a4633e6991980fbb8d0c0c4877ddcc1?source=copy_link
 
 ## Jira Project 
 ** Backlog
